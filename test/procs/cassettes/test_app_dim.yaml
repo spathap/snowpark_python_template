@@ -1,0 +1,87 @@
+interactions:
+- request:
+    body: !!binary |
+      H4sIAC7qNWQC/2VRUW+CMBj8K4y9DgJCiNnTmlK1GbRNW1n21ODGnBPBIIszhv9ui8Y02Vt7d1/u
+      7vvO7mfZl+6zc3ZhhhGRCjCmcKoRl53677YRTXvcl93WfXJsSYG4wJQYXehHfmBoURDFUYFvRPNb
+      1xoFENKlniIgR0a+3xltRueY3LGf8tA2X11VrapubTkhUmBOSa7fY0btnGEI5M35f0IqDJ6W3XHT
+      XP920l35QYUXBn6YeH/TRCWxt4mmiZfEq01v5OxdLiixRyJ/qtUWx3UXfE0Nr/4WCWnOcIb4yNZl
+      s3bC2A/8xBmzQMFUTtNxdgZwpihDxDCSA4jJXONRcN+NcaFL0zucGJQg+Ub5q4WbBQ/GHAihqfFo
+      uxNp+2rVtlt8WK7rUziJHl4ex+sgYUopBrjeutQV7bMzjmZIwoWSC45Aarh4GIYLK36hySACAAA=
+    headers:
+      Accept-Encoding:
+      - gzip, deflate, br
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '341'
+      Content-Type:
+      - application/json
+      User-Agent:
+      - PythonConnector/2.7.12 (macOS-10.16-x86_64-i386-64bit) CPython/3.8.16
+      accept:
+      - application/snowflake
+    method: POST
+    uri: https://00000000-0000-0000-0000-000000000000.snowflakecomputing.com/session/v1/login-request?request_id=00000000-0000-0000-0000-000000000000&databaseName=00000000-0000-0000-0000-000000000000&schemaName=00000000-0000-0000-0000-000000000000&warehouse=00000000-0000-0000-0000-000000000000&request_guid=00000000-0000-0000-0000-000000000000
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Cache-Control:
+      - no-cache, no-store, no-transform
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '1519'
+      Content-Type:
+      - application/json
+      Date:
+      - Tue, 11 Apr 2023 23:15:59 GMT
+      Expect-CT:
+      - enforce, max-age=3600
+      Strict-Transport-Security:
+      - max-age=31536000
+      Vary:
+      - Accept-Encoding, User-Agent
+      X-Content-Type-Options:
+      - nosniff
+      X-Country:
+      - United States
+      X-Frame-Options:
+      - deny
+      X-XSS-Protection:
+      - ': 1; mode=block'
+    status:
+      code: 200
+      message: OK
+version: 1
